@@ -1,0 +1,8 @@
+{
+  "todos": [
+    { "id": 1, "title": "MVP", "desc": "Create a Todo feature in react-redux and typescript", "user": "Alex CW" },
+    { "id": 2, "title": "v1", "desc": "User can add a todo", "user": "Alex CW" },
+    { "id": 3, "title": "v2", "desc": "user can delete todo", "user": "Alex CW" },
+    { "id": 3, "title": "v3", "desc": "user can edit todo", "user": "Alex CW" }
+  ]
+}
